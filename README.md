@@ -1,8 +1,8 @@
-## Hi there 👋
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm Lobar</h1>
-<h3 align="center">Full Stack Developer</h3>
-<h3 align="center">Welcome to my GitHub profile</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&color=2ECC71&center=true&vCenter=true&width=700&lines=Hi,+I'm+Lobar+Fraxodova;Fullstack+Developer;Welcome+to+my+GitHub+profile" />
+
+</div>
 
 ---
 
