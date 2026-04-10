@@ -19,11 +19,9 @@
   width="230" 
   src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
   style="
-    border-radius: 18px;
-    border: 3px solid #ffb6c1;
-    box-shadow: 0 0 18px rgba(255, 182, 193, 0.6);
-    padding: 4px;
-    background: linear-gradient(135deg, #ffe6f0, #fff);
+    border-radius: 25px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+    filter: brightness(1.05) saturate(1.2);
   "
 />
 
