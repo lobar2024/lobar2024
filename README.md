@@ -1,40 +1,67 @@
-<!-- ===================== README.md ===================== -->
+<!-- ===================== HEADER ===================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=800&color=F472B6&center=true&vCenter=true&width=800&lines=Lobar+Farxodova;Future+Software+Engineer;Backend+%7C+Frontend+%7C+Cybersecurity;Building+My+Dream+Career+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=Lobar+Farxodova;Future+Software+Engineer;Backend+%7C+Frontend+%7C+Cybersecurity;Night+Coder+🌙;Building+Secure+Digital+Worlds+🔥" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lobar2024&label=Profile+Views&color=F472B6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=lobar2024&label=PROFILE+VIEWS&color=F472B6&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🌸 About Me
+<!-- ===================== ABOUT ===================== -->
+
+## 🌌 About Me
 
 <img align="right" width="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 ```yaml
 name: Lobar Farxodova
+username: lobar2024
 role: Student
 location: Khorezm, Uzbekistan
 
-traits:
+style:
   - Night Coder 🌙
-  - Passionate Learner 📚
-  - Tech Explorer 🚀
+  - Silent Builder ⚙️
+  - Fast Learner 🚀
 
 interests:
-  - Backend Development ⚙️
-  - Frontend Design 🎨
-  - Cybersecurity 🔐
+  - Backend Engineering
+  - Frontend UI/UX
+  - Cybersecurity & Ethical Hacking
 
-goal: Becoming a strong and creative Software Engineer 💻✨
+mindset: "I don't just code, I build systems that matter."
 ```
 
 ---
 
-## 🚀 Tech Stack
+<!-- ===================== DASHBOARD STATS ===================== -->
+
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lobar2024&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lobar2024&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lobar2024&theme=tokyo-night"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lobar2024&theme=tokyonight"/>
+</p>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+## 🚀 Tech Arsenal
 
 ### ⚡ Backend
 <p>
@@ -51,23 +78,16 @@ goal: Becoming a strong and creative Software Engineer 💻✨
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
 </p>
 
-### 🧰 Tools & Others
+### 🧰 Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ===================== SNAKE ===================== -->
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lobar2024&show_icons=true&theme=tokyonight&icon_color=F472B6&title_color=A78BFA&text_color=ffffff&bg_color=0d1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobar2024&layout=compact&theme=tokyonight&title_color=F472B6&text_color=ffffff&bg_color=0d1117"/>
-</p>
-
----
-
-## 🔥 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -75,58 +95,48 @@ goal: Becoming a strong and creative Software Engineer 💻✨
 
 ---
 
-## 🌟 Fun Zone
+<!-- ===================== METRICS (ADVANCED PART LIKE IMAGE) ===================== -->
 
-💡 I believe coding is not just writing code — it's creating something meaningful  
-🌙 I do my best work at night when everything is quiet  
-🚀 Always trying to improve myself and learn new technologies  
-🎯 Dream: Become a top-level developer and build impactful products  
+## 📡 Live GitHub Metrics
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/lobar2024?template=classic&base.header=1&base.activity=1&base.repositories=1&config.timezone=Asia%2FTashkent"/>
+</p>
 
 ---
+
+<!-- ===================== FUN ZONE ===================== -->
+
+## 🌟 Fun Zone
+
+- 🌙 I code mostly at night when everything is quiet  
+- 🔐 Cybersecurity fascinates me — I love understanding systems deeply  
+- ⚙️ Backend logic is my favorite puzzle  
+- 🎨 I also enjoy clean and modern UI design  
+- 🚀 Goal: Become a top-tier software engineer  
+
+---
+
+<!-- ===================== CONTACT ===================== -->
 
 ## 📬 Connect With Me
 
 <p align="center">
   <a href="https://t.me/lobaar26">
-    <img src="https://img.shields.io/badge/Telegram-F472B6?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-A78BFA?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/lobar2024">
-    <img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-F472B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:qodirovjavohir2109@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-F9A8D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+<!-- ===================== FOOTER ===================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,100:A78BFA&height=140&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,100:A78BFA&height=140&section=footer"/>
 </p>
-
-<!-- ===================== SNAKE WORKFLOW ===================== -->
-<!-- BUNI .github/workflows/main.yml FILE GA QO'YASAN -->
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@master
-        with:
-          github_user_name: lobar2024
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
