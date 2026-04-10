@@ -1,56 +1,132 @@
-<div align="center">
+<!-- ===================== README.md ===================== -->
 
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&color=2ECC71&center=true&vCenter=true&width=700&lines=Hi,+I'm+Lobar+Farxodova;Fullstack+Developer;Welcome+to+my+GitHub+profile" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=800&color=F472B6&center=true&vCenter=true&width=800&lines=Lobar+Farxodova;Future+Software+Engineer;Backend+%7C+Frontend+%7C+Cybersecurity;Building+My+Dream+Career+✨" />
+</h1>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lobar2024&label=Profile+Views&color=F472B6&style=for-the-badge"/>
+</p>
+
+---
+
+## 🌸 About Me
+
+<img align="right" width="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+```yaml
+name: Lobar Farxodova
+role: Student
+location: Khorezm, Uzbekistan
+
+traits:
+  - Night Coder 🌙
+  - Passionate Learner 📚
+  - Tech Explorer 🚀
+
+interests:
+  - Backend Development ⚙️
+  - Frontend Design 🎨
+  - Cybersecurity 🔐
+
+goal: Becoming a strong and creative Software Engineer 💻✨
+```
 
 ---
 
-## 💻 Technologies
+## 🚀 Tech Stack
 
-### 🧠 Backend & Fullstack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
----
+### ⚡ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs"/>
+</p>
 
 ### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+</p>
+
+### 🛢 Database
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+</p>
+
+### 🧰 Tools & Others
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+</p>
 
 ---
 
-### 🗄 Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lobar2024&show_icons=true&theme=tokyonight&icon_color=F472B6&title_color=A78BFA&text_color=ffffff&bg_color=0d1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobar2024&layout=compact&theme=tokyonight&title_color=F472B6&text_color=ffffff&bg_color=0d1117"/>
+</p>
 
 ---
 
-## 📬 Contact
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+## 🔥 Contribution Snake
 
-<!--
-**lobar2024/lobar2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Fun Zone
+
+💡 I believe coding is not just writing code — it's creating something meaningful  
+🌙 I do my best work at night when everything is quiet  
+🚀 Always trying to improve myself and learn new technologies  
+🎯 Dream: Become a top-level developer and build impactful products  
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://t.me/lobaar26">
+    <img src="https://img.shields.io/badge/Telegram-F472B6?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/lobar2024">
+    <img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:qodirovjavohir2109@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-F9A8D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,100:A78BFA&height=140&section=footer&animation=fadeIn"/>
+</p>
+
+<!-- ===================== SNAKE WORKFLOW ===================== -->
+<!-- BUNI .github/workflows/main.yml FILE GA QO'YASAN -->
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: lobar2024
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
