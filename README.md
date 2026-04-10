@@ -1,8 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=Lobar+Farxodova;Future+Software+Engineer;Backend+%7C+Frontend+%7C+Cybersecurity;Night+Coder+🌙;Building+Secure+Digital+Worlds+🔥" />
-</h1>
+<h1 align="center">🌸 Welcome to My Profile</h1>
+
+<p align="center">
+  💖 Full Stack Developer • 🎓 Student in IT Park • 📍 Uzbekistan
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lobar2024&label=PROFILE+VIEWS&color=F472B6&style=for-the-badge"/>
@@ -10,36 +12,37 @@
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
+## 🌸 About Me
 
-## 🌌 About Me
+<table>
+<tr>
 
-<img align="right" width="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<td width="62%">
 
-```yaml
-name: Lobar Farxodova
-username: lobar2024
-role: Student
-location: Khorezm, Uzbekistan
+💖 **Full Stack Developer**  
+🎓 Student in IT Park  
+📍 Uzbekistan  
+⚡ Clean UI + Powerful Backend lover  
+🌙 Night coder  
+🌸 Love aesthetic & minimal design  
 
-style:
-  - Night Coder 🌙
-  - Silent Builder ⚙️
-  - Fast Learner 🚀
+💡 I focus on building clean, fast and scalable systems.  
+I enjoy turning ideas into real-world products that actually work.
 
-interests:
-  - Backend Engineering
-  - Frontend UI/UX
-  - Cybersecurity & Ethical Hacking
+</td>
 
-mindset: "I don't just code, I build systems that matter."
-```
+<td width="38%" align="center">
+
+<img src="https://i.imgur.com/0y0y0y0.png" width="220"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-<!-- ===================== DASHBOARD STATS ===================== -->
-
-## 📊 GitHub Dashboard
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lobar2024&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -53,39 +56,16 @@ mindset: "I don't just code, I build systems that matter."
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lobar2024&theme=tokyo-night"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lobar2024&theme=tokyonight"/>
-</p>
-
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+## 🚀 Tech Stack
 
-## 🚀 Tech Arsenal
-
-### ⚡ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs"/>
-</p>
-
-### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-</p>
-
-### 🛢 Database
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
-</p>
-
-### 🧰 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
-</p>
+💻 Backend → Python • Django • Node.js  
+🎨 Frontend → HTML • CSS • JavaScript • React  
+🛢 Database → PostgreSQL • MySQL  
+🧰 Tools → Git • GitHub • Docker • Linux  
 
 ---
-
-<!-- ===================== SNAKE ===================== -->
 
 ## 🐍 Contribution Snake
 
@@ -95,48 +75,16 @@ mindset: "I don't just code, I build systems that matter."
 
 ---
 
-<!-- ===================== METRICS (ADVANCED PART LIKE IMAGE) ===================== -->
+## 🌙 Style & Mindset
 
-## 📡 Live GitHub Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/lobar2024?template=classic&base.header=1&base.activity=1&base.repositories=1&config.timezone=Asia%2FTashkent"/>
-</p>
-
----
-
-<!-- ===================== FUN ZONE ===================== -->
-
-## 🌟 Fun Zone
-
-- 🌙 I code mostly at night when everything is quiet  
-- 🔐 Cybersecurity fascinates me — I love understanding systems deeply  
-- ⚙️ Backend logic is my favorite puzzle  
-- 🎨 I also enjoy clean and modern UI design  
-- 🚀 Goal: Become a top-tier software engineer  
+- Clean & minimal design  
+- Strong backend logic  
+- UI/UX attention to detail  
+- Continuous learning mindset  
+- Night coder energy 🌙  
 
 ---
 
-<!-- ===================== CONTACT ===================== -->
-
-## 📬 Connect With Me
-
 <p align="center">
-  <a href="https://t.me/lobaar26">
-    <img src="https://img.shields.io/badge/Telegram-A78BFA?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/lobar2024">
-    <img src="https://img.shields.io/badge/LinkedIn-F472B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:qodirovjavohir2109@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- ===================== FOOTER ===================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,100:A78BFA&height=140&section=footer"/>
+  ✨ Build simple. Build powerful. Build meaningful. ✨
 </p>
