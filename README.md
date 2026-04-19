@@ -40,7 +40,7 @@ style="border-radius:25px; box-shadow:0 10px 25px rgba(244,114,182,0.4);" />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lobar2024&show_icons=true&theme=tokyonight&title_color=F472B6&icon_color=A78BFA&text_color=FFFFFF&bg_color=0D1117" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobar2024&layout=compact&theme=tokyonight&hide=python&langs_count=6&title_color=F472B6&text_color=FFFFFF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobar2024&layout=compact&theme=tokyonight&langs_count=6&title_color=F472B6&text_color=FFFFFF"/>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lobar2024&theme=tokyonight" />
