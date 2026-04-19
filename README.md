@@ -46,6 +46,10 @@ style="border-radius:30px; box-shadow:0 10px 30px rgba(138,43,226,0.4); filter:b
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lobar2024&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lobar2024&theme=tokyonight" />
+</p>
+
 ---
 
 ## 💜 Tech Arsenal
@@ -67,9 +71,11 @@ style="border-radius:30px; box-shadow:0 10px 30px rgba(138,43,226,0.4); filter:b
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lobar2024/lobar2024/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 ---
 
 ## 📡 Live GitHub Metrics
