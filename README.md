@@ -1,4 +1,4 @@
-<!-- ===================== PINK/PURPLE AESTHETIC README ===================== -->
+<!-- ===================== FIXED PINK/PURPLE README ===================== -->
 
 <h1 align="center">
   <span style="
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lobar2024&label=PROFILE+VIEWS&color=F472B6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=lobarfarxodova&label=PROFILE+VIEWS&color=F472B6&style=for-the-badge"/>
 </p>
 
 ---
@@ -38,13 +38,13 @@ style="border-radius:25px; box-shadow:0 10px 25px rgba(244,114,182,0.4);" />
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lobar2024&show_icons=true&theme=tokyonight&title_color=F472B6&icon_color=A78BFA&text_color=FFFFFF&bg_color=0D1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lobarfarxodova&show_icons=true&theme=tokyonight&title_color=F472B6&icon_color=A78BFA&text_color=FFFFFF&bg_color=0D1117" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobar2024&layout=compact&theme=tokyonight&title_color=F472B6&text_color=FFFFFF&bg_color=0D1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobarfarxodova&layout=compact&theme=tokyonight&title_color=F472B6&text_color=FFFFFF&bg_color=0D1117" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lobar2024&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lobarfarxodova&theme=tokyonight" />
 </p>
 
 ---
@@ -77,10 +77,10 @@ style="border-radius:25px; box-shadow:0 10px 25px rgba(244,114,182,0.4);" />
 
 ---
 
-## 🔥 Streak Animation
+## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lobar2024&theme=tokyonight&ring=F472B6&fire=A78BFA&currStreakLabel=F9A8D4"/>
+  <img src="https://streak-stats.demolab.com?user=lobarfarxodova&theme=tokyonight&ring=F472B6&fire=A78BFA&currStreakLabel=F9A8D4"/>
 </p>
 
 ---
@@ -90,15 +90,13 @@ style="border-radius:25px; box-shadow:0 10px 25px rgba(244,114,182,0.4);" />
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aindira2197/aindira2197/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+
 ---
 
 ## 🧠 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lobar2024&theme=tokyo-night&color=F472B6&line=A78BFA&point=FFFFFF"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lobarfarxodova&theme=tokyo-night&color=F472B6&line=A78BFA&point=FFFFFF"/>
 </p>
 
 ---
@@ -109,16 +107,11 @@ style="border-radius:25px; box-shadow:0 10px 25px rgba(244,114,182,0.4);" />
   <a href="https://t.me/lobaar26">
     <img src="https://img.shields.io/badge/Telegram-F472B6?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/lobar2024">
+  <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:qodirovjavohir2109@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-F9A8D4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,100:A78BFA&height=120&section=footer"/>
+</p>vercel.app/api?type=waving&color=0:F472B6,100:A78BFA&height=120&section=footer"/>
 </p>
