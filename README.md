@@ -29,8 +29,11 @@
 ---
 ## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lobar2024&show_icons=true&theme=radical&title_color=F472B6&icon_color=A78BFA&text_color=FFFFFF&bg_color=0D1117&hide_border=true" height="180"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lobar2024&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobar2024&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000" height="165"/>
+</div>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobar2024&layout=compact&theme=radical&title_color=F472B6&text_color=FFFFFF&bg_color=0D1117&hide_border=true" height="180"/>
 </p>
 
