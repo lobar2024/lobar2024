@@ -107,3 +107,9 @@
     <img src="https://img.shields.io/badge/Gmail-F9A8D4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,100:A78BFA&height=120&section=footer"/>
+</p>
