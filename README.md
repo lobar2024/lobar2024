@@ -1,11 +1,6 @@
 <!-- ===================== PINK/PURPLE AESTHETIC README ===================== -->
-
 <h1 align="center">
-  <span style="
-    background: linear-gradient(90deg,#F472B6,#A78BFA,#38BDF8);
-    -webkit-background-clip: text;
-    color: transparent;
-  ">
+  <span style="background: linear-gradient(90deg,#F472B6,#A78BFA,#38BDF8); -webkit-background-clip: text; color: transparent;">
     Lobar Farxodova ✨
   </span>
 </h1>
@@ -22,22 +17,26 @@
 
 ## 💡 About Me
 
-<img align="right" width="230" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
+<img align="right" width="230" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" style="border-radius:25px; box-shadow:0 10px 25px rgba(244,114,182,0.4);"/>
 
-- 💖 Full Stack Developer  
-- 🎓 Student in IT Park  
-- 📍 Uzbekistan  
-- ⚡ Clean UI + Powerful Backend lover  
-- 🌙 Night coder  
-- 🌸 Aesthetic & minimal design lover  
+- 💖 Full Stack Developer
+- 🎓 Student in IT Park
+- 📍 Uzbekistan
+- ⚡ Clean UI + Powerful Backend lover
+- 🌙 Night coder
+- 🌸 Love aesthetic & minimal design
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lobar2024&show_icons=true&theme=tokyonight&title_color=F472B6&icon_color=A78BFA&text_color=FFFFFF&bg_color=0D1117" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobar2024&layout=compact&theme=tokyonight&title_color=F472B6&text_color=FFFFFF&bg_color=0D1117" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lobar2024&theme=tokyonight" />
 </p>
 
 ---
@@ -45,26 +44,32 @@
 ## 🚀 Tech Stack
 
 ### ⚡ Backend
-- Python 🐍
-- Django
-- Flask
+<p>
+  <img src="https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=F472B6"/>
+  <img src="https://img.shields.io/badge/Django-1E293B?style=for-the-badge&logo=django&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/Flask-1E293B?style=for-the-badge&logo=flask&logoColor=F9A8D4"/>
+</p>
 
 ### 🎨 Frontend
-- HTML5
-- CSS3
-- JavaScript
+<p>
+  <img src="https://img.shields.io/badge/HTML5-1E293B?style=for-the-badge&logo=html5&logoColor=F472B6"/>
+  <img src="https://img.shields.io/badge/CSS3-1E293B?style=for-the-badge&logo=css3&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=FDE68A"/>
+</p>
 
-### 🛢 Tools & Database
-- PostgreSQL
-- MySQL
-- SQLite
-- Docker
-- Linux
-- Git
+### 🛢 Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=A78BFA"/>
+  <img src="https://img.shields.io/badge/MySQL-1E293B?style=for-the-badge&logo=mysql&logoColor=F472B6"/>
+  <img src="https://img.shields.io/badge/SQLite-1E293B?style=for-the-badge&logo=sqlite&logoColor=F9A8D4"/>
+  <img src="https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/Linux-1E293B?style=for-the-badge&logo=linux&logoColor=FDE68A"/>
+  <img src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=F472B6"/>
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Streak Animation
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lobar2024&theme=tokyonight&ring=F472B6&fire=A78BFA&currStreakLabel=F9A8D4"/>
@@ -80,10 +85,10 @@
 
 ---
 
-## 📈 Activity Graph
+## 🧠 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lobar2024&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lobar2024&theme=tokyo-night&color=F472B6&line=A78BFA&point=FFFFFF"/>
 </p>
 
 ---
@@ -94,7 +99,9 @@
   <a href="https://t.me/lobaar26">
     <img src="https://img.shields.io/badge/Telegram-F472B6?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-
+  <a href="https://linkedin.com/in/lobar2024">
+    <img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="mailto:qodirovjavohir2109@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-F9A8D4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
