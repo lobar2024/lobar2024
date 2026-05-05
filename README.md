@@ -27,7 +27,6 @@
 - 🌸 Love aesthetic & minimal design
 
 ---
-
 ## 📊 My GitHub Stats
 
 <p align="center">
@@ -36,13 +35,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lobar2024&theme=radical&hide_border=true&ring=F472B6&fire=A78BFA&currStreakLabel=F9A8D4" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lobar2024&theme=radical" />
 </p>
-
 ---
 
 ## 🚀 Tech Stack
@@ -76,7 +70,7 @@
 ## 🔥 Streak Animation
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lobar2024&theme=tokyonight&ring=F472B6&fire=A78BFA&currStreakLabel=F9A8D4"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lobar2024&theme=radical&hide_border=true&ring=F472B6&fire=A78BFA&currStreakLabel=F9A8D4" />
 </p>
 
 ---
