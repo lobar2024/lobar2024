@@ -31,12 +31,16 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lobar2024&show_icons=true&theme=tokyonight&title_color=F472B6&icon_color=A78BFA&text_color=FFFFFF&bg_color=0D1117" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobar2024&layout=compact&theme=tokyonight&title_color=F472B6&text_color=FFFFFF&bg_color=0D1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lobar2024&show_icons=true&theme=radical&title_color=F472B6&icon_color=A78BFA&text_color=FFFFFF&bg_color=0D1117&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobar2024&layout=compact&theme=radical&title_color=F472B6&text_color=FFFFFF&bg_color=0D1117&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lobar2024&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lobar2024&theme=radical&hide_border=true&ring=F472B6&fire=A78BFA&currStreakLabel=F9A8D4" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lobar2024&theme=radical" />
 </p>
 
 ---
