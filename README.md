@@ -27,6 +27,7 @@
 - 🌸 Love aesthetic & minimal design
 
 ---
+
 ## 📊 My GitHub Stats
 
 <div align="center">
@@ -34,12 +35,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobar2024&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000" height="165"/>
 </div>
 
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobar2024&layout=compact&theme=radical&title_color=F472B6&text_color=FFFFFF&bg_color=0D1117&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lobar2024&theme=radical" />
 </p>
+
 ---
 
 ## 🚀 Tech Stack
@@ -78,8 +81,6 @@
 
 ---
 
----
-
 ## 🧠 Activity Graph
 
 <p align="center">
@@ -87,7 +88,6 @@
 </p>
 
 ---
-
 
 ## 🐍 Contribution Snake
 
